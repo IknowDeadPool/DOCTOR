@@ -14,7 +14,8 @@ DOCTOR is an anatomical lab suite 3D Web application for the students and profes
 The purpose of this project is to:
 1. Make it available for Students to take their virtual Cadavers and Models home for better study.
 2. Keep the design and Layouts as simple and basic as possible to not overwhelm the users.
-3. Provide students the ability to pronounce certain words and also help them hear how it sounds exactly .
+3. Provide students the ability to pronounce certain words and also help them hear how it sounds exactly.
+4. This Web Application is free for any **University of Illinois** students reducing the overwhelming price they need to pay the companies every year. 
 ## Technologies Used  
 - **Languages:** JavaScript, HTML, CSS, Python  
 - **Frameworks:** Three.js, Node.js, React.js, OpenCV 
