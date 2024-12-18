@@ -27,12 +27,13 @@ DOCTOR is an anatomical lab suite 3D Web application for the students and profes
    - Authorized users (e.g., faculty) can edit and manage annotations.  
    - Students have **view-only access** to maintain security and integrity of the data.
 ## 3. **Voice Search and Input**  
-   - Implemented **voice input** to allow hands-free navigation.  
-   - Users can **search for anatomical regions** or labels using speech commands.  
+   - Implemented **voice input** to allow hands-free navigation for Labels.  
+   - Users can **search for anatomical regions**, **labels** or **Views** using speech commands.  
    - Enhances accessibility and ease of use for students and faculty.  
 
-## 4. **Search Functionality for Labels and Regions**  
-   - Integrated a **search bar** that allows users to quickly locate and highlight anatomical regions and labels.  
+## 4. **Search Functionality**  
+   - Integrated a **search bar** that allows users to find 3d models in Models Page and Cadavers Page seperately for ease of access.
+   - **Search bar** inside Model Viewing Engine allows users to quickly locate and highlight anatomical regions and labels.  
    - Supports both text and voice-based searches for seamless navigation.  
 
 ## 5. **Lazy Loading for Optimized Performance**  
