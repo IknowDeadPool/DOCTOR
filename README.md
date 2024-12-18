@@ -29,6 +29,7 @@ DOCTOR is an anatomical lab suite 3D Web application for the students and profes
    - Users can **draw** on the 3D models using different tools like **Pen**, **Arrow**, **Eraser**, **Undo**, **Redo**, **Save** the drawing.  
    - Authorized users (e.g., faculty) can edit and manage annotations.  
    - Students have **view-only access** to maintain security and integrity of the data.
+      ![Cadavers Page](drawing.png)
 ## 3. **Voice Search and Input**  
    - Implemented **voice input** to allow hands-free navigation for Labels.  
    - Users can **search for anatomical regions**, **labels** or **Views** using speech commands.  
