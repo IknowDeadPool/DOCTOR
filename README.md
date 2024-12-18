@@ -19,9 +19,12 @@ DOCTOR is an anatomical lab suite 3D Web application for the students and profes
 # Features
 ## 1. **Interactive 3D Model Viewer**  
    - Allows users to select between  **Models or Cadavers**.
-   - Allows Professors to upload different 3d models and tag them for students to access. 
+   - Allows Professors to upload different 3d models and tag them for students to access.
+   - 3D models can have multiple Layers to hide and unhide. 
    - Allows users to **explore, rotate, zoom, and interact** with detailed 3D anatomical models.  
    - Built using **Three.js** for rendering high-quality visuals and ensuring smooth performance.
+         ![Models Page](modelspage.png)
+         ![Cadavers Page](cadaverspage.png)
 ## 2. **Drawing and Annotation**  
    - Users can **draw** on the 3D models using different tools like **Pen**, **Arrow**, **Eraser**, **Undo**, **Redo**, **Save** the drawing.  
    - Authorized users (e.g., faculty) can edit and manage annotations.  
