@@ -7,6 +7,7 @@ Dynamic Online Cadaver Teaching and Resource
 
 ## Overview  
 DOCTOR is an anatomical lab suite 3D Web application for the students and professors of the University of Illinois Chicago, where you can choose from a wide range of 3d models and 3d cadaver models to explore and learn from. It is solely intended for the users to have a real cadaver lab experience wherever they are. DOCTOR comes with many cool and interesting features like animations, Views, Draw, Voice input, Label search, Hide and Unhide parts, and their differentiation, and many more. All of these keeping in mind to make the user not overwhelmed with all fancy features but just what they want and easy to navigate layouts and differentiation between Plastic Models and Cadaver Models.
+![Home Page](Homepage.png)
 ---
 ## Technologies Used  
 - **Languages:** JavaScript, HTML, CSS, Python  
@@ -17,6 +18,8 @@ DOCTOR is an anatomical lab suite 3D Web application for the students and profes
 
 # Features
 ## 1. **Interactive 3D Model Viewer**  
+   - Allows users to select between  **Models or Cadavers**.
+   - Allows Professors to upload different 3d models and tag them for students to access. 
    - Allows users to **explore, rotate, zoom, and interact** with detailed 3D anatomical models.  
    - Built using **Three.js** for rendering high-quality visuals and ensuring smooth performance.
 ## 2. **Drawing and Annotation**  
@@ -56,4 +59,6 @@ DOCTOR is an anatomical lab suite 3D Web application for the students and profes
 
 ## 10. **Robust Deployment**  
    - Deployed on **UIC servers** with strong performance optimization and monitoring.  
-   - Ensures reliability and scalability to serve thousands of users.  
+   - Ensures reliability and scalability to serve thousands of users.
+
+
