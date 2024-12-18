@@ -23,7 +23,7 @@ DOCTOR is an anatomical lab suite 3D Web application for the students and profes
    - Allows users to **explore, rotate, zoom, and interact** with detailed 3D anatomical models.  
    - Built using **Three.js** for rendering high-quality visuals and ensuring smooth performance.
 ## 2. **Drawing and Annotation**  
-   - Users can **draw, annotate, and label specific regions** of the 3D models.  
+   - Users can **draw** on the 3D models using different tools like **Pen**, **Arrow**, **Eraser**, **Undo**, **Redo**, **Save** the drawing.  
    - Authorized users (e.g., faculty) can edit and manage annotations.  
    - Students have **view-only access** to maintain security and integrity of the data.
 ## 3. **Voice Search and Input**  
