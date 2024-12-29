@@ -76,4 +76,6 @@ The purpose of this project is to:
 
 ## Project Impact  
 This application empowered over **2,000+ active users** as per (Google Analytics) with advanced tools for exploring, annotating, and interacting with anatomical models. It significantly improved the educational experience by enhancing accessibility, performance, and security.
+### 📺 Demo Video
+Check out the [project demo on YouTube](https://www.youtube.com/watch?v=HGQ17hWFMxI&t=3s).
 
